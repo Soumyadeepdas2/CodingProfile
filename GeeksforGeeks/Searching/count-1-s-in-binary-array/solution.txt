@@ -1,0 +1,23 @@
+class Solution {
+  public:
+    int countOnes(vector<int>& arr) {
+        // code here
+        int ans = -1;
+        int left = 0;
+        int right = arr.size()-1;
+        while(left<=right){
+            int mid = left + (right - left)/2;
+            if(arr[mid]==1){
+                ans = mid;
+                left = mid+1;}
+                
+                 if(arr[mid]<1){
+                    right = mid-1;
+                    
+                }
+            
+        }
+        ans = ans+1;
+        return ans;
+    }
+};
