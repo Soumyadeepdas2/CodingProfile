@@ -12,3 +12,5 @@
 | 4 | A. Games | Codeforces | *800 | N/A | C++ |
 
 | 5 | arrays-ds. Arrays - DS | HackerRank | Arrays | N/A | N/A |
+
+| 6 | 69. Sqrt(x) | LeetCode | Math | Easy | Choose a type |
