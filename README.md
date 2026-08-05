@@ -10,3 +10,5 @@
 | 3 | GFG. Count 1's in binary array | GeeksforGeeks | Searching | N/A | C++ (17) |
 
 | 4 | A. Games | Codeforces | *800 | N/A | C++ |
+
+| 5 | arrays-ds. Arrays - DS | HackerRank | Arrays | N/A | N/A |
