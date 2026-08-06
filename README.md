@@ -26,3 +26,5 @@ vatsalchanana | C++ |
 | 10 | plus-minus. Plus Minus | HackerRank | Array | N/A | C++ |
 
 | 11 | staircase. Staircase | HackerRank | Array,Pattern | N/A | C++ |
+
+| 12 | mini-max-sum. Mini-Max Sum | HackerRank | Array | N/A | C++ |
