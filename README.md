@@ -22,3 +22,5 @@
 | 9 | diagonal-difference. Diagonal Difference | HackerRank | Matrix | Author
 
 vatsalchanana | C++ |
+
+| 10 | plus-minus. Plus Minus | HackerRank | Array | N/A | C++ |
