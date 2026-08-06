@@ -18,3 +18,7 @@
 | 7 | 3345. Smallest Divisible Digit Product I | LeetCode | Math | Easy | Choose a type |
 
 | 8 | 1572. Matrix Diagonal Sum | LeetCode | Array | Easy | Choose a type |
+
+| 9 | diagonal-difference. Diagonal Difference | HackerRank | Matrix | Author
+
+vatsalchanana | C++ |
