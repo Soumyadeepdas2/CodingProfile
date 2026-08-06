@@ -14,3 +14,5 @@
 | 5 | arrays-ds. Arrays - DS | HackerRank | Arrays | N/A | N/A |
 
 | 6 | 69. Sqrt(x) | LeetCode | Math | Easy | Choose a type |
+
+| 7 | 3345. Smallest Divisible Digit Product I | LeetCode | Math | Easy | Choose a type |
