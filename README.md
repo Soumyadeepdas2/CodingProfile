@@ -30,3 +30,5 @@ vatsalchanana | C++ |
 | 12 | mini-max-sum. Mini-Max Sum | HackerRank | Array | N/A | C++ |
 
 | 13 | birthday-cake-candles. Birthday Cake Candles | HackerRank | Arrays | N/A | C++ |
+
+| 14 | time-conversion. Time Conversion | HackerRank | String | N/A | C++ |
