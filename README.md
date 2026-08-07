@@ -32,3 +32,5 @@ vatsalchanana | C++ |
 | 13 | birthday-cake-candles. Birthday Cake Candles | HackerRank | Arrays | N/A | C++ |
 
 | 14 | time-conversion. Time Conversion | HackerRank | String | N/A | C++ |
+
+| 15 | GFG. Indexes of Subarray Sum | GeeksforGeeks | Arrays | N/A | C++ (17) |
