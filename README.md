@@ -38,3 +38,5 @@ vatsalchanana | C++ |
 | 16 | GFG. Missing in Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 17 | GFG. Second Largest | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 18 | GFG. Sum of Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
