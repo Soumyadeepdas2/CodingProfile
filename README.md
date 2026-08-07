@@ -42,3 +42,5 @@ vatsalchanana | C++ |
 | 18 | GFG. Sum of Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 19 | GFG. Array Subset | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 20 | 58. Length of Last Word | LeetCode | String | Easy | Choose a type |
