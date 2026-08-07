@@ -1,0 +1,17 @@
+class Solution {
+  public:
+    int getSecondLargest(vector<int> &arr) {
+        // code here
+        int fir = -1; 
+        int sec = -1;
+        for(int i = 0; i < arr.size(); i++){
+            if(arr[i]>fir){
+                sec= fir;
+               fir = arr[i];
+            }else if(arr[i]>sec&&arr[i]<fir){
+                sec = arr[i];
+            }
+        }
+        return sec;
+    }
+};
