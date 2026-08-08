@@ -60,3 +60,5 @@ vatsalchanana | C++ |
 | 27 | divisible-sum-pairs. Divisible Sum Pairs | HackerRank | Array | N/A | C++ |
 
 | 28 | migratory-birds. Migratory Birds | HackerRank | Arrays | N/A | C++ |
+
+| 29 | day-of-the-programmer. Day of the Programmer | HackerRank | String | N/A | C++ |
