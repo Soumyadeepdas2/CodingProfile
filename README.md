@@ -56,3 +56,5 @@ vatsalchanana | C++ |
 | 25 | breaking-best-and-worst-records. Breaking the Records | HackerRank | Array | N/A | C++ |
 
 | 26 | the-birthday-bar. Subarray Division | HackerRank | Array | N/A | C++ |
+
+| 27 | divisible-sum-pairs. Divisible Sum Pairs | HackerRank | Array | N/A | C++ |
