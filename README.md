@@ -54,3 +54,5 @@ vatsalchanana | C++ |
 | 24 | between-two-sets. Between Two Sets | HackerRank | Array | N/A | C++ |
 
 | 25 | breaking-best-and-worst-records. Breaking the Records | HackerRank | Array | N/A | C++ |
+
+| 26 | the-birthday-bar. Subarray Division | HackerRank | Array | N/A | C++ |
