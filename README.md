@@ -50,3 +50,5 @@ vatsalchanana | C++ |
 | 22 | apple-and-orange. Apple and Orange | HackerRank | Array | N/A | C++ |
 
 | 23 | kangaroo. Number Line Jumps | HackerRank | Array | N/A | C++ |
+
+| 24 | between-two-sets. Between Two Sets | HackerRank | Array | N/A | C++ |
