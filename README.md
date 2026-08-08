@@ -46,3 +46,5 @@ vatsalchanana | C++ |
 | 20 | 58. Length of Last Word | LeetCode | String | Easy | Choose a type |
 
 | 21 | grading. Grading Students | HackerRank | Array | N/A | N/A |
+
+| 22 | apple-and-orange. Apple and Orange | HackerRank | Array | N/A | C++ |
