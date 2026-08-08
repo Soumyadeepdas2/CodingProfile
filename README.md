@@ -52,3 +52,5 @@ vatsalchanana | C++ |
 | 23 | kangaroo. Number Line Jumps | HackerRank | Array | N/A | C++ |
 
 | 24 | between-two-sets. Between Two Sets | HackerRank | Array | N/A | C++ |
+
+| 25 | breaking-best-and-worst-records. Breaking the Records | HackerRank | Array | N/A | C++ |
