@@ -48,3 +48,5 @@ vatsalchanana | C++ |
 | 21 | grading. Grading Students | HackerRank | Array | N/A | N/A |
 
 | 22 | apple-and-orange. Apple and Orange | HackerRank | Array | N/A | C++ |
+
+| 23 | kangaroo. Number Line Jumps | HackerRank | Array | N/A | C++ |
