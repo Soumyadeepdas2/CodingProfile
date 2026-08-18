@@ -64,3 +64,5 @@ vatsalchanana | C++ |
 | 29 | day-of-the-programmer. Day of the Programmer | HackerRank | String | N/A | C++ |
 
 | 30 | GFG. Sum of Natural Number Cubes | GeeksforGeeks | Mathematical | N/A | Java (21) |
+
+| 31 | GFG. Count Digits in a Number | GeeksforGeeks | Recursion | N/A | Java (21) |
