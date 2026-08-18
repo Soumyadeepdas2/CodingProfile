@@ -70,3 +70,5 @@ vatsalchanana | C++ |
 | 32 | GFG. Sum Of Digits | GeeksforGeeks | number-theory | N/A | Java (21) |
 
 | 33 | GFG. Reverse Digits | GeeksforGeeks | Mathematical | N/A | Java (21) |
+
+| 34 | GFG. Palindrome Number | GeeksforGeeks | palindrome | N/A | Java (21) |
