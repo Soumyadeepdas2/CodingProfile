@@ -1,0 +1,15 @@
+class Solution {
+  public:
+    int countSquares(int n) {
+        int square;
+        // code here
+        int count = 0;
+        for(int i = 1; i*i<n; i++){
+            square = i*i;
+            if(square<n){
+                count++;
+            }
+        }
+        return count;
+    }
+};
