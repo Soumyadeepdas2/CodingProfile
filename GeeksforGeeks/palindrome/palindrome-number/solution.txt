@@ -1,0 +1,18 @@
+class Solution {
+    public boolean isPalindrome(int n) {
+        // code here
+        int temp = n;
+        int reverse = 0;
+        int digit;
+        while(n!=0){
+            digit = n%10;
+            reverse = reverse*10 + digit;
+            n = n/10;
+        }
+        if(temp==reverse){
+            return true;
+        }
+        return false;
+        
+    }
+}
