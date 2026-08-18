@@ -66,3 +66,5 @@ vatsalchanana | C++ |
 | 30 | GFG. Sum of Natural Number Cubes | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 31 | GFG. Count Digits in a Number | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 32 | GFG. Sum Of Digits | GeeksforGeeks | number-theory | N/A | Java (21) |
