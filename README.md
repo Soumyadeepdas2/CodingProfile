@@ -72,3 +72,5 @@ vatsalchanana | C++ |
 | 33 | GFG. Reverse Digits | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 34 | GFG. Palindrome Number | GeeksforGeeks | palindrome | N/A | Java (21) |
+
+| 35 | GFG. Prime Number | GeeksforGeeks | Mathematical | N/A | C++ (17) |
