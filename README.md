@@ -76,3 +76,5 @@ vatsalchanana | C++ |
 | 35 | GFG. Prime Number | GeeksforGeeks | Mathematical | N/A | C++ (17) |
 
 | 36 | GFG. Armstrong Numbers | GeeksforGeeks | Mathematical | N/A | C++ (17) |
+
+| 37 | GFG. Count Perfect Squares | GeeksforGeeks | Mathematical | N/A | C++ (17) |
