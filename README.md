@@ -74,3 +74,5 @@ vatsalchanana | C++ |
 | 34 | GFG. Palindrome Number | GeeksforGeeks | palindrome | N/A | Java (21) |
 
 | 35 | GFG. Prime Number | GeeksforGeeks | Mathematical | N/A | C++ (17) |
+
+| 36 | GFG. Armstrong Numbers | GeeksforGeeks | Mathematical | N/A | C++ (17) |
