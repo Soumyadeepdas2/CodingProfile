@@ -82,3 +82,5 @@ vatsalchanana | C++ |
 | 38 | GFG. GCD of two numbers | GeeksforGeeks | Mathematical | N/A | C++ (17) |
 
 | 39 | 231. Power of Two | LeetCode | Math | Easy | Choose a type |
+
+| 40 | 326. Power of Three | LeetCode | Math | Easy | Choose a type |
