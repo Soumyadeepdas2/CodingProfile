@@ -102,3 +102,5 @@ vatsalchanana | C++ |
 | 48 | GFG. Right Angle Triangle Pattern | GeeksforGeeks | CPP | N/A | C++ |
 
 | 49 | GFG. Inverted Right Angle Triangle Pattern | GeeksforGeeks | CPP | N/A | C++ |
+
+| 50 | GFG. Inverted Triangle of Stars | GeeksforGeeks | pattern-printing | N/A | C++ |
