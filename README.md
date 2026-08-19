@@ -90,3 +90,5 @@ vatsalchanana | C++ |
 | 42 | 485. Max Consecutive Ones | LeetCode | Array | Easy | Choose a type |
 
 | 43 | 881. Boats to Save People | LeetCode | Array | Medium | Choose a type |
+
+| 44 | 713. Subarray Product Less Than K | LeetCode | Array | Medium | Choose a type |
