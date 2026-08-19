@@ -1,0 +1,19 @@
+class Solution {
+  public:
+    int gcd(int a, int b) {
+        // code here
+        int lar = max(a,b);
+        int sma = min(a,b);
+        int ans;
+        while(lar>0){
+            if(lar%sma==0){
+                return sma;
+            }
+            
+            ans = lar%sma;
+            lar = sma;
+            sma = ans;
+            
+        }
+    }
+};
