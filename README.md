@@ -106,3 +106,5 @@ vatsalchanana | C++ |
 | 50 | GFG. Inverted Triangle of Stars | GeeksforGeeks | pattern-printing | N/A | C++ |
 
 | 51 | GFG. Half Diamond Star Pattern | GeeksforGeeks | pattern-printing | N/A | C++ |
+
+| 52 | GFG. nPr | GeeksforGeeks | Mathematics | N/A | C++ (17) |
