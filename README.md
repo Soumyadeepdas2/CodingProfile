@@ -100,3 +100,5 @@ vatsalchanana | C++ |
 | 47 | GFG. Print Solid Square | GeeksforGeeks | CPP | N/A | C++ |
 
 | 48 | GFG. Right Angle Triangle Pattern | GeeksforGeeks | CPP | N/A | C++ |
+
+| 49 | GFG. Inverted Right Angle Triangle Pattern | GeeksforGeeks | CPP | N/A | C++ |
