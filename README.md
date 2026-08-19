@@ -78,3 +78,5 @@ vatsalchanana | C++ |
 | 36 | GFG. Armstrong Numbers | GeeksforGeeks | Mathematical | N/A | C++ (17) |
 
 | 37 | GFG. Count Perfect Squares | GeeksforGeeks | Mathematical | N/A | C++ (17) |
+
+| 38 | GFG. GCD of two numbers | GeeksforGeeks | Mathematical | N/A | C++ (17) |
