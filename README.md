@@ -80,3 +80,5 @@ vatsalchanana | C++ |
 | 37 | GFG. Count Perfect Squares | GeeksforGeeks | Mathematical | N/A | C++ (17) |
 
 | 38 | GFG. GCD of two numbers | GeeksforGeeks | Mathematical | N/A | C++ (17) |
+
+| 39 | 231. Power of Two | LeetCode | Math | Easy | Choose a type |
