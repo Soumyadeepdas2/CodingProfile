@@ -96,3 +96,5 @@ vatsalchanana | C++ |
 | 45 | 1004. Max Consecutive Ones III | LeetCode | Array | Medium | Choose a type |
 
 | 46 | GFG. Right-Angled Number Triangle Pattern | GeeksforGeeks | pattern-printing | N/A | C++ |
+
+| 47 | GFG. Print Solid Square | GeeksforGeeks | CPP | N/A | C++ |
