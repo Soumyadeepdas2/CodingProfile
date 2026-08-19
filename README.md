@@ -114,3 +114,5 @@ vatsalchanana | C++ |
 | 54 | GFG. Find element at a given Index | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 55 | GFG. Array Traversal | GeeksforGeeks | CPP | N/A | C++ (17) |
+
+| 56 | GFG. Array Search | GeeksforGeeks | Arrays | N/A | C++ (17) |
