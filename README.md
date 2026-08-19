@@ -88,3 +88,5 @@ vatsalchanana | C++ |
 | 41 | 342. Power of Four | LeetCode | Math | Easy | Choose a type |
 
 | 42 | 485. Max Consecutive Ones | LeetCode | Array | Easy | Choose a type |
+
+| 43 | 881. Boats to Save People | LeetCode | Array | Medium | Choose a type |
