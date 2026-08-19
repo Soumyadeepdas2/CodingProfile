@@ -112,3 +112,5 @@ vatsalchanana | C++ |
 | 53 | GFG. Replace all 0's with 5 | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 54 | GFG. Find element at a given Index | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 55 | GFG. Array Traversal | GeeksforGeeks | CPP | N/A | C++ (17) |
