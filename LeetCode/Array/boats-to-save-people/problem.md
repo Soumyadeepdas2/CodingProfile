@@ -9,6 +9,7 @@ You are given an array people where people[i] is the weight of the ith person, a
 Return the minimum number of boats to carry every given person.
 
  
+
 Example 1:
 
 Input: people = [1,2], limit = 3
@@ -31,8 +32,8 @@ Explanation: 4 boats (3), (3), (4), (5)
 
 
  
+
 Constraints:
 
-
-	1 <= people.length <= 5 * 104
-	1 <= people[i] <= limit <= 3 * 104
+1 <= people.length <= 5 * 104
+1 <= people[i] <= limit <= 3 * 104
