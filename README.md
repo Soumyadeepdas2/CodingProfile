@@ -116,3 +116,5 @@ vatsalchanana | C++ |
 | 55 | GFG. Array Traversal | GeeksforGeeks | CPP | N/A | C++ (17) |
 
 | 56 | GFG. Array Search | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 57 | GFG. Largest in Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
