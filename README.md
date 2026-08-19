@@ -118,3 +118,5 @@ vatsalchanana | C++ |
 | 56 | GFG. Array Search | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 57 | GFG. Largest in Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 58 | GFG. Using return type | GeeksforGeeks | Array | N/A | C++ (17) |
