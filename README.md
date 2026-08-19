@@ -84,3 +84,5 @@ vatsalchanana | C++ |
 | 39 | 231. Power of Two | LeetCode | Math | Easy | Choose a type |
 
 | 40 | 326. Power of Three | LeetCode | Math | Easy | Choose a type |
+
+| 41 | 342. Power of Four | LeetCode | Math | Easy | Choose a type |
