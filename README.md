@@ -110,3 +110,5 @@ vatsalchanana | C++ |
 | 52 | GFG. nPr | GeeksforGeeks | Mathematics | N/A | C++ (17) |
 
 | 53 | GFG. Replace all 0's with 5 | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 54 | GFG. Find element at a given Index | GeeksforGeeks | Arrays | N/A | C++ (17) |
