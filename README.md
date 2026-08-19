@@ -108,3 +108,5 @@ vatsalchanana | C++ |
 | 51 | GFG. Half Diamond Star Pattern | GeeksforGeeks | pattern-printing | N/A | C++ |
 
 | 52 | GFG. nPr | GeeksforGeeks | Mathematics | N/A | C++ (17) |
+
+| 53 | GFG. Replace all 0's with 5 | GeeksforGeeks | Arrays | N/A | C++ (17) |
