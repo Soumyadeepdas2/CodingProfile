@@ -86,3 +86,5 @@ vatsalchanana | C++ |
 | 40 | 326. Power of Three | LeetCode | Math | Easy | Choose a type |
 
 | 41 | 342. Power of Four | LeetCode | Math | Easy | Choose a type |
+
+| 42 | 485. Max Consecutive Ones | LeetCode | Array | Easy | Choose a type |
