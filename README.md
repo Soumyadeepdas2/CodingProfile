@@ -94,3 +94,5 @@ vatsalchanana | C++ |
 | 44 | 713. Subarray Product Less Than K | LeetCode | Array | Medium | Choose a type |
 
 | 45 | 1004. Max Consecutive Ones III | LeetCode | Array | Medium | Choose a type |
+
+| 46 | GFG. Right-Angled Number Triangle Pattern | GeeksforGeeks | pattern-printing | N/A | C++ |
