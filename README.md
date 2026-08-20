@@ -128,3 +128,5 @@ vatsalchanana | C++ |
 | 61 | GFG. Strongest Neighbour | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 62 | GFG. Balanced Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 63 | GFG. Max and Min Product from 2 Arrays | GeeksforGeeks | Arrays | N/A | C++ (17) |
