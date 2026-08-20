@@ -122,3 +122,5 @@ vatsalchanana | C++ |
 | 58 | GFG. Using return type | GeeksforGeeks | Array | N/A | C++ (17) |
 
 | 59 | GFG. Check Equal Arrays | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 60 | GFG. Multiply Left and Right Array Sums | GeeksforGeeks | Arrays | N/A | C++ (17) |
