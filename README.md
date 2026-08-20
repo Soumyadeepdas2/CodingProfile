@@ -124,3 +124,5 @@ vatsalchanana | C++ |
 | 59 | GFG. Check Equal Arrays | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 60 | GFG. Multiply Left and Right Array Sums | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 61 | GFG. Strongest Neighbour | GeeksforGeeks | Arrays | N/A | C++ (17) |
