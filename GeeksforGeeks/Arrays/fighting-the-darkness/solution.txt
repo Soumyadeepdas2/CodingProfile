@@ -1,0 +1,8 @@
+class Solution {
+  public:
+    int maxDays(vector<int> &arr) {
+        // code here
+        sort(arr.begin(),arr.end());
+        return arr[arr.size()-1];
+    }
+};
