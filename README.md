@@ -132,3 +132,5 @@ vatsalchanana | C++ |
 | 63 | GFG. Max and Min Product from 2 Arrays | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 64 | GFG. Fighting the Darkness | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 65 | GFG. Sum of distinct elements | GeeksforGeeks | Arrays | N/A | C++ (17) |
