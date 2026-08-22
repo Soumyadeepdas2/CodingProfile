@@ -138,3 +138,5 @@ vatsalchanana | C++ |
 | 66 | 3622. Check Divisibility by Digit Sum and Product | LeetCode | Math | Easy | Choose a type |
 
 | 67 | GFG. Array with All Palindromes | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 68 | GFG. Array Insert at Index | GeeksforGeeks | Arrays | N/A | C++ (17) |
