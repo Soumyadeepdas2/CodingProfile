@@ -140,3 +140,5 @@ vatsalchanana | C++ |
 | 67 | GFG. Array with All Palindromes | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 68 | GFG. Array Insert at Index | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 69 | GFG. Who has the majority? | GeeksforGeeks | Arrays | N/A | C++ (17) |
