@@ -1,0 +1,26 @@
+class Solution {
+  public:
+    bool isPalinArray(vector<int> &arr) {
+        // code here
+        
+        int digit = 0;
+        for(int i = 0; i < arr.size();i++){
+            int num = 0;
+            int temp = arr[i];
+            while(arr[i]>0){
+           
+            
+            digit = arr[i]%10;
+            num = num*10+digit;
+            arr[i]=arr[i]/10;
+                
+            }
+            
+            if(num!=temp){
+                return false;
+            }
+            
+        }
+        return true;
+    }
+};
