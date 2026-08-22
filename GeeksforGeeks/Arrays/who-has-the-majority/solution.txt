@@ -1,0 +1,25 @@
+class Solution {
+  public:
+    int moreFrequent(vector<int>& arr, int x, int y) {
+        // code here
+        int count = 0;
+        int count1 = 0;
+        for(int i = 0; i < arr.size();i++){
+            if(arr[i]==x){
+                count++;
+            }
+            if(arr[i]==y){
+                count1++;
+            }
+            
+        }
+       if(count==count1){
+                return min(x,y);
+            }
+            else if(count>count1){
+                return x;
+            }
+            return y;
+       
+    }
+};
