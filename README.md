@@ -134,3 +134,5 @@ vatsalchanana | C++ |
 | 64 | GFG. Fighting the Darkness | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 65 | GFG. Sum of distinct elements | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 66 | 3622. Check Divisibility by Digit Sum and Product | LeetCode | Math | Easy | Choose a type |
