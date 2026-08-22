@@ -144,3 +144,5 @@ vatsalchanana | C++ |
 | 69 | GFG. Who has the majority? | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 70 | GFG. Smaller and Larger in Sorted | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 71 | GFG. Array Leaders | GeeksforGeeks | Arrays | N/A | C++ (17) |
