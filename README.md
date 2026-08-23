@@ -146,3 +146,5 @@ vatsalchanana | C++ |
 | 70 | GFG. Smaller and Larger in Sorted | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 71 | GFG. Array Leaders | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 72 | GFG. First and Last in Sorted | GeeksforGeeks | Arrays | N/A | C++ (17) |
