@@ -1,0 +1,42 @@
+class Solution {
+  public:
+    vector<int> find(vector<int>& arr, int x) {
+        // code here
+        int left = 0;
+        int right = arr.size()-1;
+        int st = -1;
+        int nd = -1;
+        while(left<=right){
+            int mid = left + (right-left)/2;
+            if(arr[mid]==x){
+                st = mid;
+                right=mid-1;
+                
+            }
+            else if(arr[mid]>x){
+                right=mid-1;
+            }
+            else{
+                left=mid+1;
+            }
+        }
+        left = 0;
+        right = arr.size()-1;
+        while(left<=right){
+            int mid = left + (right-left)/2;
+            if(arr[mid]==x){
+                nd = mid;
+                left=mid+1;;
+                
+            }
+           else if(arr[mid]>x){
+                right=mid-1;
+            }
+            else{
+                left=mid+1;
+            }
+        }
+        vector<int> ans = {st,nd};
+        return ans;
+    }
+};
