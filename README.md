@@ -154,3 +154,7 @@ vatsalchanana | C++ |
 | 74 | GFG. First 1 in a Sorted Binary Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 75 | GFG. Array End Insert | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 76 | java-static-initializer-block. Java Static Initializer Block | HackerRank | Static initialization block | Author
+
+aa1992 | N/A |
