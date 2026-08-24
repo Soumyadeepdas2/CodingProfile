@@ -150,3 +150,5 @@ vatsalchanana | C++ |
 | 72 | GFG. First and Last in Sorted | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 73 | GFG. Last index of One | GeeksforGeeks | Searching | N/A | C++ (17) |
+
+| 74 | GFG. First 1 in a Sorted Binary Array | GeeksforGeeks | Arrays | N/A | C++ (17) |
