@@ -148,3 +148,5 @@ vatsalchanana | C++ |
 | 71 | GFG. Array Leaders | GeeksforGeeks | Arrays | N/A | C++ (17) |
 
 | 72 | GFG. First and Last in Sorted | GeeksforGeeks | Arrays | N/A | C++ (17) |
+
+| 73 | GFG. Last index of One | GeeksforGeeks | Searching | N/A | C++ (17) |
