@@ -158,3 +158,5 @@ vatsalchanana | C++ |
 | 76 | java-static-initializer-block. Java Static Initializer Block | HackerRank | Static initialization block | Author
 
 aa1992 | N/A |
+
+| 77 | 1927. Sum Game | LeetCode | Game Theory | Medium | C++ |
