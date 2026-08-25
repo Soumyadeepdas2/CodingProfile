@@ -162,3 +162,5 @@ aa1992 | N/A |
 | 77 | 1927. Sum Game | LeetCode | Game Theory | Medium | C++ |
 
 | 78 | GFG. Minimum Moves to Sort Permutation | GeeksforGeeks | Hash | N/A | C++ |
+
+| 79 | 3718. Smallest Missing Multiple of K | LeetCode | Array | Easy | C++ |
