@@ -164,3 +164,5 @@ aa1992 | N/A |
 | 78 | GFG. Minimum Moves to Sort Permutation | GeeksforGeeks | Hash | N/A | C++ |
 
 | 79 | 3718. Smallest Missing Multiple of K | LeetCode | Array | Easy | C++ |
+
+| 80 | 136. Single Number | LeetCode | Array | Easy | C++ |
