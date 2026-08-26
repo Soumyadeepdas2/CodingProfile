@@ -166,3 +166,5 @@ aa1992 | N/A |
 | 79 | 3718. Smallest Missing Multiple of K | LeetCode | Array | Easy | C++ |
 
 | 80 | 136. Single Number | LeetCode | Array | Easy | C++ |
+
+| 81 | GFG. First and Last in Unosrted | GeeksforGeeks | Arrays | N/A | C++ |
