@@ -168,3 +168,5 @@ aa1992 | N/A |
 | 80 | 136. Single Number | LeetCode | Array | Easy | C++ |
 
 | 81 | GFG. First and Last in Unosrted | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 82 | 169. Majority Element | LeetCode | Array | Easy | C++ |
