@@ -172,3 +172,5 @@ aa1992 | N/A |
 | 82 | 169. Majority Element | LeetCode | Array | Easy | C++ |
 
 | 83 | 437. Path Sum III | LeetCode | Binary Tree | Medium | Java |
+
+| 84 | 121. Best Time to Buy and Sell Stock | LeetCode | Array | Easy | C++ |
