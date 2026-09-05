@@ -176,3 +176,5 @@ aa1992 | N/A |
 | 84 | 121. Best Time to Buy and Sell Stock | LeetCode | Array | Easy | C++ |
 
 | 85 | 11. Container With Most Water | LeetCode | Array | Medium | C++ |
+
+| 86 | GFG. Divisibility by 8 | GeeksforGeeks | Mathematics | N/A | C++ |
