@@ -196,3 +196,5 @@ aa1992 | N/A |
 | 94 | GFG. Print With Space | GeeksforGeeks | CPP | N/A | C++ |
 
 | 95 | GFG. Print Without Space | GeeksforGeeks | python-io | N/A | C++ |
+
+| 96 | GFG. Print Square wall | GeeksforGeeks | CPP | N/A | C++ |
