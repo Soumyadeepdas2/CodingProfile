@@ -181,4 +181,4 @@ aa1992 | N/A |
 
 | 87 | GFG. Taking Input | GeeksforGeeks | CPP | N/A | C++ |
 
-| 88 | GFG. Learn to Comment | GeeksforGeeks | CPP | N/A | C++ |
+| 88 | GFG. Learn to Comment | GeeksforGeeks | Java | N/A | C++ |
