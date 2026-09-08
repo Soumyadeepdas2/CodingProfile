@@ -194,3 +194,5 @@ aa1992 | N/A |
 | 93 | GFG. C++ if-else (Decision Making) | GeeksforGeeks | CPP | N/A | C++ |
 
 | 94 | GFG. Print With Space | GeeksforGeeks | CPP | N/A | C++ |
+
+| 95 | GFG. Print Without Space | GeeksforGeeks | python-io | N/A | C++ |
