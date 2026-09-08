@@ -178,3 +178,5 @@ aa1992 | N/A |
 | 85 | 11. Container With Most Water | LeetCode | Array | Medium | C++ |
 
 | 86 | GFG. Divisibility by 8 | GeeksforGeeks | Mathematics | N/A | C++ |
+
+| 87 | GFG. Taking Input | GeeksforGeeks | CPP | N/A | C++ |
