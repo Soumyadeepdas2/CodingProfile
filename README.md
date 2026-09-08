@@ -188,3 +188,5 @@ aa1992 | N/A |
 | 90 | GFG. Function With Return | GeeksforGeeks | CPP | N/A | C++ |
 
 | 91 | GFG. Print with New Line | GeeksforGeeks | CPP | N/A | C++ |
+
+| 92 | GFG. The Else Statement | GeeksforGeeks | python-conditionals | N/A | C++ |
