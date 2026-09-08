@@ -180,3 +180,5 @@ aa1992 | N/A |
 | 86 | GFG. Divisibility by 8 | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 87 | GFG. Taking Input | GeeksforGeeks | CPP | N/A | C++ |
+
+| 88 | GFG. Learn to Comment | GeeksforGeeks | CPP | N/A | C++ |
