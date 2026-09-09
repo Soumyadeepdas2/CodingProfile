@@ -198,3 +198,5 @@ aa1992 | N/A |
 | 95 | GFG. Print Without Space | GeeksforGeeks | python-io | N/A | C++ |
 
 | 96 | GFG. Print Square wall | GeeksforGeeks | CPP | N/A | C++ |
+
+| 97 | GFG. The FizzBuzz Program | GeeksforGeeks | python-conditionals | N/A | C++ |
