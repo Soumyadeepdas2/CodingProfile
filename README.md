@@ -200,3 +200,5 @@ aa1992 | N/A |
 | 96 | GFG. Print Square wall | GeeksforGeeks | CPP | N/A | C++ |
 
 | 97 | GFG. The FizzBuzz Program | GeeksforGeeks | python-conditionals | N/A | C++ |
+
+| 98 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Tree | Medium | C++ |
