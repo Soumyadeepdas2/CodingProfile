@@ -202,3 +202,5 @@ aa1992 | N/A |
 | 97 | GFG. The FizzBuzz Program | GeeksforGeeks | python-conditionals | N/A | C++ |
 
 | 98 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Tree | Medium | C++ |
+
+| 99 | GFG. Party in Town | GeeksforGeeks | DFS | N/A | C++ |
