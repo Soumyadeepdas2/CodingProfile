@@ -204,3 +204,5 @@ aa1992 | N/A |
 | 98 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Tree | Medium | C++ |
 
 | 99 | GFG. Party in Town | GeeksforGeeks | DFS | N/A | C++ |
+
+| 100 | GFG. Dominant Pairs | GeeksforGeeks | two-pointer-algorithm | N/A | C++ |
