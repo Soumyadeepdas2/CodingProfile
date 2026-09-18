@@ -206,3 +206,5 @@ aa1992 | N/A |
 | 99 | GFG. Party in Town | GeeksforGeeks | DFS | N/A | C++ |
 
 | 100 | GFG. Dominant Pairs | GeeksforGeeks | two-pointer-algorithm | N/A | C++ |
+
+| 101 | 175. Combine Two Tables | LeetCode | Database | Easy | C++ |
