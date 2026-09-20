@@ -220,3 +220,5 @@ aa1992 | N/A |
 | 106 | B. Buy a Shovel | Codeforces | Math | N/A | C++ |
 
 | 107 | A. Shooshuns and Sequence | Codeforces | brute force | N/A | C++ |
+
+| 108 | A. Arrival of the General | Codeforces | implementation | N/A | C++ |
