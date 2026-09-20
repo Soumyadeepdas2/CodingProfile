@@ -210,3 +210,5 @@ aa1992 | N/A |
 | 101 | 175. Combine Two Tables | LeetCode | Database | Easy | C++ |
 
 | 102 | A. Magnets | Codeforces | implementation | N/A | C++ |
+
+| 103 | A. Team | Codeforces | brute force | N/A | C++ |
