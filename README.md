@@ -214,3 +214,5 @@ aa1992 | N/A |
 | 103 | A. Team | Codeforces | brute force | N/A | C++ |
 
 | 104 | C. Beautiful Matrix | Codeforces | Math | N/A | C++ |
+
+| 105 | A. Hit the Lottery | Codeforces | Math | N/A | C++ |
