@@ -208,3 +208,5 @@ aa1992 | N/A |
 | 100 | GFG. Dominant Pairs | GeeksforGeeks | two-pointer-algorithm | N/A | C++ |
 
 | 101 | 175. Combine Two Tables | LeetCode | Database | Easy | C++ |
+
+| 102 | A. Magnets | Codeforces | implementation | N/A | C++ |
