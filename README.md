@@ -212,3 +212,5 @@ aa1992 | N/A |
 | 102 | A. Magnets | Codeforces | implementation | N/A | C++ |
 
 | 103 | A. Team | Codeforces | brute force | N/A | C++ |
+
+| 104 | C. Beautiful Matrix | Codeforces | Math | N/A | C++ |
