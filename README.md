@@ -216,3 +216,5 @@ aa1992 | N/A |
 | 104 | C. Beautiful Matrix | Codeforces | Math | N/A | C++ |
 
 | 105 | A. Hit the Lottery | Codeforces | Math | N/A | C++ |
+
+| 106 | B. Buy a Shovel | Codeforces | Math | N/A | C++ |
