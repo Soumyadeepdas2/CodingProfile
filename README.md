@@ -224,3 +224,5 @@ aa1992 | N/A |
 | 108 | A. Arrival of the General | Codeforces | implementation | N/A | C++ |
 
 | 109 | A. Wrong Subtraction | Codeforces | implementation | N/A | Java |
+
+| 110 | A. Nearly Lucky Number | Codeforces | implementation | N/A | Java |
