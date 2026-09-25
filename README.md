@@ -226,3 +226,5 @@ aa1992 | N/A |
 | 109 | A. Wrong Subtraction | Codeforces | implementation | N/A | Java |
 
 | 110 | A. Nearly Lucky Number | Codeforces | implementation | N/A | Java |
+
+| 111 | GFG. Length of Linked List | GeeksforGeeks | Linked List | N/A | C++ |
