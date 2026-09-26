@@ -228,3 +228,5 @@ aa1992 | N/A |
 | 110 | A. Nearly Lucky Number | Codeforces | implementation | N/A | Java |
 
 | 111 | GFG. Length of Linked List | GeeksforGeeks | Linked List | N/A | C++ |
+
+| 112 | A. Is your horseshoe on the other hoof? | Codeforces | implementation | N/A | C++ |
