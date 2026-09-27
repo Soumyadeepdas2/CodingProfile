@@ -230,3 +230,5 @@ aa1992 | N/A |
 | 111 | GFG. Length of Linked List | GeeksforGeeks | Linked List | N/A | C++ |
 
 | 112 | A. Is your horseshoe on the other hoof? | Codeforces | implementation | N/A | C++ |
+
+| 113 | A. Boy or Girl | Codeforces | brute force | N/A | C++ |
