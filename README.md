@@ -232,3 +232,5 @@ aa1992 | N/A |
 | 112 | A. Is your horseshoe on the other hoof? | Codeforces | implementation | N/A | C++ |
 
 | 113 | A. Boy or Girl | Codeforces | brute force | N/A | C++ |
+
+| 114 | A. Perfect Permutation | Codeforces | implementation | N/A | C++ |
