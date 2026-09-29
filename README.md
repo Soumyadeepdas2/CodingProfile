@@ -234,3 +234,5 @@ aa1992 | N/A |
 | 113 | A. Boy or Girl | Codeforces | brute force | N/A | C++ |
 
 | 114 | A. Perfect Permutation | Codeforces | implementation | N/A | C++ |
+
+| 115 | A. LLPS | Codeforces | binary search | N/A | C++ |
