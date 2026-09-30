@@ -238,3 +238,5 @@ aa1992 | N/A |
 | 115 | A. LLPS | Codeforces | binary search | N/A | C++ |
 
 | 116 | GFG. Ways to Reach Origin | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 117 | A. Series of Crimes | Codeforces | brute force | N/A | C++ |
