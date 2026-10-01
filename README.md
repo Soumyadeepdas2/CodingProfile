@@ -240,3 +240,5 @@ aa1992 | N/A |
 | 116 | GFG. Ways to Reach Origin | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 117 | A. Series of Crimes | Codeforces | brute force | N/A | C++ |
+
+| 118 | A2. Good Matrix Elements | Codeforces | implementation | N/A | C++ |
