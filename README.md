@@ -242,3 +242,5 @@ aa1992 | N/A |
 | 117 | A. Series of Crimes | Codeforces | brute force | N/A | C++ |
 
 | 118 | A2. Good Matrix Elements | Codeforces | implementation | N/A | C++ |
+
+| 119 | A. Next Round | Codeforces | *special problem | N/A | C++ |
