@@ -244,3 +244,5 @@ aa1992 | N/A |
 | 118 | A2. Good Matrix Elements | Codeforces | implementation | N/A | C++ |
 
 | 119 | A. Next Round | Codeforces | *special problem | N/A | C++ |
+
+| 120 | GFG. Your Social Network | GeeksforGeeks | Graph | N/A | C++ |
