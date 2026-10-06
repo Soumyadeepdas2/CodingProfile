@@ -246,3 +246,5 @@ aa1992 | N/A |
 | 119 | A. Next Round | Codeforces | *special problem | N/A | C++ |
 
 | 120 | GFG. Your Social Network | GeeksforGeeks | Graph | N/A | C++ |
+
+| 121 | GFG. Reverse Array in Groups | GeeksforGeeks | Arrays | N/A | C++ |
