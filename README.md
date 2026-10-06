@@ -248,3 +248,5 @@ aa1992 | N/A |
 | 120 | GFG. Your Social Network | GeeksforGeeks | Graph | N/A | C++ |
 
 | 121 | GFG. Reverse Array in Groups | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 122 | C. Move Brackets | Codeforces | greedy | N/A | C++ |
