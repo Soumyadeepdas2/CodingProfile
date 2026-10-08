@@ -250,3 +250,5 @@ aa1992 | N/A |
 | 121 | GFG. Reverse Array in Groups | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 122 | C. Move Brackets | Codeforces | greedy | N/A | C++ |
+
+| 123 | GFG. Maximum Frequency with K Increments | GeeksforGeeks | sliding-window | N/A | C++ |
