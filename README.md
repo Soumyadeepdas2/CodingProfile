@@ -252,3 +252,5 @@ aa1992 | N/A |
 | 122 | C. Move Brackets | Codeforces | greedy | N/A | C++ |
 
 | 123 | GFG. Maximum Frequency with K Increments | GeeksforGeeks | sliding-window | N/A | C++ |
+
+| 124 | GFG. Peak element | GeeksforGeeks | Arrays | N/A | C++ |
