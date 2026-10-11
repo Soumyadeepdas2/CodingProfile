@@ -254,3 +254,5 @@ aa1992 | N/A |
 | 123 | GFG. Maximum Frequency with K Increments | GeeksforGeeks | sliding-window | N/A | C++ |
 
 | 124 | GFG. Peak element | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 125 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | C++ |
