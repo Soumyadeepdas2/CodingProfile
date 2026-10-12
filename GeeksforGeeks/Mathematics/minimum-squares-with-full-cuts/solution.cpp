@@ -1,0 +1,19 @@
+class Solution {
+  public:
+    int minSquares(int n, int m) {
+        int ans = 0;
+
+        while (n > 0 && m > 0) {
+            if (n < m) {
+                swap(n, m);
+            }
+
+            ans += n / m;
+            int rem = n % m;
+            n = m;
+            m = rem;
+        }
+
+        return ans;
+    }
+};
