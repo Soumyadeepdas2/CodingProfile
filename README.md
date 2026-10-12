@@ -256,3 +256,5 @@ aa1992 | N/A |
 | 124 | GFG. Peak element | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 125 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | C++ |
+
+| 126 | GFG. Minimum Squares with Full Cuts | GeeksforGeeks | Mathematics | N/A | C++ |
