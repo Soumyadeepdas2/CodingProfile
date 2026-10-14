@@ -260,3 +260,5 @@ aa1992 | N/A |
 | 126 | GFG. Minimum Squares with Full Cuts | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 127 | C. Two Shuffled Sequences | Codeforces | constructive algorithms | N/A | C++ |
+
+| 128 | GFG. Roll Characters of String | GeeksforGeeks | Arrays | N/A | C++ |
