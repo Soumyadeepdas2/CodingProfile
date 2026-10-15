@@ -264,3 +264,5 @@ aa1992 | N/A |
 | 128 | GFG. Roll Characters of String | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 129 | 2. Add Two Numbers | LeetCode | Linked List | Medium | C++ |
+
+| 130 | 3723. Maximize Sum of Squares of Digits | LeetCode | Greedy | Medium | Java |
