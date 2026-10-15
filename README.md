@@ -262,3 +262,5 @@ aa1992 | N/A |
 | 127 | C. Two Shuffled Sequences | Codeforces | constructive algorithms | N/A | C++ |
 
 | 128 | GFG. Roll Characters of String | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 129 | 2. Add Two Numbers | LeetCode | Linked List | Medium | C++ |
