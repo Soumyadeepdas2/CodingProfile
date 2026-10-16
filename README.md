@@ -266,3 +266,5 @@ aa1992 | N/A |
 | 129 | 2. Add Two Numbers | LeetCode | Linked List | Medium | C++ |
 
 | 130 | 3723. Maximize Sum of Squares of Digits | LeetCode | Greedy | Medium | Java |
+
+| 131 | 2333. Minimum Sum of Squared Difference | LeetCode | Array | Medium | C++ |
