@@ -268,3 +268,5 @@ aa1992 | N/A |
 | 130 | 3723. Maximize Sum of Squares of Digits | LeetCode | Greedy | Medium | Java |
 
 | 131 | 2333. Minimum Sum of Squared Difference | LeetCode | Array | Medium | C++ |
+
+| 132 | A. Love "A" | Codeforces | implementation | N/A | C++ |
