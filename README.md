@@ -270,3 +270,5 @@ aa1992 | N/A |
 | 131 | 2333. Minimum Sum of Squared Difference | LeetCode | Array | Medium | C++ |
 
 | 132 | A. Love "A" | Codeforces | implementation | N/A | C++ |
+
+| 133 | 3551. Minimum Swaps to Sort by Digit Sum | LeetCode | Array | Medium | C++ |
