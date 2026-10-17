@@ -272,3 +272,5 @@ aa1992 | N/A |
 | 132 | A. Love "A" | Codeforces | implementation | N/A | C++ |
 
 | 133 | 3551. Minimum Swaps to Sort by Digit Sum | LeetCode | Array | Medium | C++ |
+
+| 134 | GFG. Convert One String to Another with Constraints | GeeksforGeeks | Strings | N/A | C++ |
