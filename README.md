@@ -274,3 +274,5 @@ aa1992 | N/A |
 | 133 | 3551. Minimum Swaps to Sort by Digit Sum | LeetCode | Array | Medium | C++ |
 
 | 134 | GFG. Convert One String to Another with Constraints | GeeksforGeeks | Strings | N/A | C++ |
+
+| 135 | GFG. Shortest Path From 1 To n | GeeksforGeeks | Mathematics | N/A | C++ |
