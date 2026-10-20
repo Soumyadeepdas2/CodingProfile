@@ -278,3 +278,5 @@ aa1992 | N/A |
 | 135 | GFG. Shortest Path From 1 To n | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 136 | 2089. Find Target Indices After Sorting Array | LeetCode | Array | Easy | C++ |
+
+| 137 | A. String Similarity | Codeforces | constructive algorithms | N/A | C++ |
