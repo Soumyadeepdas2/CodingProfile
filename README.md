@@ -284,3 +284,5 @@ aa1992 | N/A |
 | 138 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | C++ |
 
 | 139 | GFG. Minimum Sum Subarray | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 140 | A. New Year and Counting Cards | Codeforces | brute force | N/A | C++ |
