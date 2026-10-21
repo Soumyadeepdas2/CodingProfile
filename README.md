@@ -282,3 +282,5 @@ aa1992 | N/A |
 | 137 | A. String Similarity | Codeforces | constructive algorithms | N/A | C++ |
 
 | 138 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | C++ |
+
+| 139 | GFG. Minimum Sum Subarray | GeeksforGeeks | Arrays | N/A | C++ |
