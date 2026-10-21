@@ -280,3 +280,5 @@ aa1992 | N/A |
 | 136 | 2089. Find Target Indices After Sorting Array | LeetCode | Array | Easy | C++ |
 
 | 137 | A. String Similarity | Codeforces | constructive algorithms | N/A | C++ |
+
+| 138 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | C++ |
