@@ -286,3 +286,5 @@ aa1992 | N/A |
 | 139 | GFG. Minimum Sum Subarray | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 140 | A. New Year and Counting Cards | Codeforces | brute force | N/A | C++ |
+
+| 141 | A. QAQ | Codeforces | brute force | N/A | C++ |
