@@ -290,3 +290,5 @@ aa1992 | N/A |
 | 141 | A. QAQ | Codeforces | brute force | N/A | C++ |
 
 | 142 | 3644. Maximum K to Sort a Permutation | LeetCode | Array | Medium | C++ |
+
+| 143 | A. Sasha and Sticks | Codeforces | games | N/A | C++ |
