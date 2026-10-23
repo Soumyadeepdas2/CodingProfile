@@ -2,28 +2,15 @@
 using namespace std;
 
 int main() {
-    string s;
-    cin >> s;
+    long long n, k;
+    cin >> n >> k;
 
-    int freq[26][26] = {};
+    long long moves = n / k;
 
-    for (int i = 0; i + 1 < (int)s.size(); i++) {
-        int a = s[i] - 'a';
-        int b = s[i + 1] - 'a';
-        freq[a][b]++;
-    }
-
-    int ans = 0;
-
-    for (int i = 0; i < 26; i++) {
-        for (int j = 0; j < 26; j++) {
-            if (freq[i][j] >= 2) {
-                ans++;
-            }
-        }
-    }
-
-    cout << ans << '\n';
+    if (moves % 2 == 1)
+        cout << "YES\n";
+    else
+        cout << "NO\n";
 
     return 0;
 }
