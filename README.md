@@ -292,3 +292,5 @@ aa1992 | N/A |
 | 142 | 3644. Maximum K to Sort a Permutation | LeetCode | Array | Medium | C++ |
 
 | 143 | A. Sasha and Sticks | Codeforces | games | N/A | C++ |
+
+| 144 | GFG. Count Pairs Violating BST Property | GeeksforGeeks | Binary Search Tree | N/A | C++ |
