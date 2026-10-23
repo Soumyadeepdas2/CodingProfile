@@ -288,3 +288,5 @@ aa1992 | N/A |
 | 140 | A. New Year and Counting Cards | Codeforces | brute force | N/A | C++ |
 
 | 141 | A. QAQ | Codeforces | brute force | N/A | C++ |
+
+| 142 | 3644. Maximum K to Sort a Permutation | LeetCode | Array | Medium | C++ |
