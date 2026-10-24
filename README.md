@@ -294,3 +294,5 @@ aa1992 | N/A |
 | 143 | A. Sasha and Sticks | Codeforces | games | N/A | C++ |
 
 | 144 | GFG. Count Pairs Violating BST Property | GeeksforGeeks | Binary Search Tree | N/A | C++ |
+
+| 145 | 4088. Difference Between Peaks and Valleys | LeetCode | Array | Easy | C++ |
