@@ -296,3 +296,5 @@ aa1992 | N/A |
 | 144 | GFG. Count Pairs Violating BST Property | GeeksforGeeks | Binary Search Tree | N/A | C++ |
 
 | 145 | 4088. Difference Between Peaks and Valleys | LeetCode | Array | Easy | C++ |
+
+| 146 | SHKNUM. Welcome to the CodeChef AI Tutor | CodeChef | Binary Search | N/A | C++ |
