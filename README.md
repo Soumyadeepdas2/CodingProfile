@@ -298,3 +298,5 @@ aa1992 | N/A |
 | 145 | 4088. Difference Between Peaks and Valleys | LeetCode | Array | Easy | C++ |
 
 | 146 | SHKNUM. Welcome to the CodeChef AI Tutor | CodeChef | Binary Search | N/A | C++ |
+
+| 147 | GFG. Sum of Beauty of All Substrings | GeeksforGeeks | Strings | N/A | C++ |
