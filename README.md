@@ -302,3 +302,5 @@ aa1992 | N/A |
 | 147 | GFG. Sum of Beauty of All Substrings | GeeksforGeeks | Strings | N/A | C++ |
 
 | 148 | BSEX01. Welcome to the CodeChef AI Tutor | CodeChef | Matrix | N/A | C++ |
+
+| 149 | GFG. Nth in Concatenated Decimal String | GeeksforGeeks | Mathematics | N/A | C++ |
