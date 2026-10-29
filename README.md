@@ -304,3 +304,5 @@ aa1992 | N/A |
 | 148 | BSEX01. Welcome to the CodeChef AI Tutor | CodeChef | Matrix | N/A | C++ |
 
 | 149 | GFG. Nth in Concatenated Decimal String | GeeksforGeeks | Mathematics | N/A | C++ |
+
+| 150 | 3841. Palindromic Path Queries in a Tree | LeetCode | Array | Hard | C++ |
