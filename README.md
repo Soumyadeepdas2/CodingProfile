@@ -306,3 +306,5 @@ aa1992 | N/A |
 | 149 | GFG. Nth in Concatenated Decimal String | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 150 | 3841. Palindromic Path Queries in a Tree | LeetCode | Array | Hard | C++ |
+
+| 151 | LARGESECOND. Welcome to the CodeChef AI Tutor | CodeChef | Array | N/A | C++ |
