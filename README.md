@@ -308,3 +308,5 @@ aa1992 | N/A |
 | 150 | 3841. Palindromic Path Queries in a Tree | LeetCode | Array | Hard | C++ |
 
 | 151 | LARGESECOND. Welcome to the CodeChef AI Tutor | CodeChef | Array | N/A | C++ |
+
+| 152 | 453. Minimum Moves to Equal Array Elements | LeetCode | Array | Medium | C++ |
