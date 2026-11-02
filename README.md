@@ -310,3 +310,5 @@ aa1992 | N/A |
 | 151 | LARGESECOND. Welcome to the CodeChef AI Tutor | CodeChef | Array | N/A | C++ |
 
 | 152 | 453. Minimum Moves to Equal Array Elements | LeetCode | Array | Medium | C++ |
+
+| 153 | GFG. Pair With Difference | GeeksforGeeks | Sorting | N/A | C++ |
