@@ -314,3 +314,5 @@ aa1992 | N/A |
 | 153 | GFG. Pair With Difference | GeeksforGeeks | Sorting | N/A | C++ |
 
 | 154 | 3736. Minimum Moves to Equal Array Elements III | LeetCode | Array | Easy | C++ |
+
+| 155 | GFG. Reverse a String | GeeksforGeeks | Strings | N/A | C++ |
