@@ -312,3 +312,5 @@ aa1992 | N/A |
 | 152 | 453. Minimum Moves to Equal Array Elements | LeetCode | Array | Medium | C++ |
 
 | 153 | GFG. Pair With Difference | GeeksforGeeks | Sorting | N/A | C++ |
+
+| 154 | 3736. Minimum Moves to Equal Array Elements III | LeetCode | Array | Easy | C++ |
