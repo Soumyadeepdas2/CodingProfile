@@ -318,3 +318,5 @@ aa1992 | N/A |
 | 155 | GFG. Reverse a String | GeeksforGeeks | Strings | N/A | C++ |
 
 | 156 | GFG. XOR of All Subarray XORs | GeeksforGeeks | Mathematics | N/A | C++ |
+
+| 157 | GFG. Minimum Days | GeeksforGeeks | Strings | N/A | C++ |
