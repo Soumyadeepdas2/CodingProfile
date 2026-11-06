@@ -320,3 +320,5 @@ aa1992 | N/A |
 | 156 | GFG. XOR of All Subarray XORs | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 157 | GFG. Minimum Days | GeeksforGeeks | Strings | N/A | C++ |
+
+| 158 | GFG. Balanced Binary Tree Counter | GeeksforGeeks | Mathematics | N/A | C++ |
