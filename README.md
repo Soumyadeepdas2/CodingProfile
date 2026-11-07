@@ -322,3 +322,5 @@ aa1992 | N/A |
 | 157 | GFG. Minimum Days | GeeksforGeeks | Strings | N/A | C++ |
 
 | 158 | GFG. Balanced Binary Tree Counter | GeeksforGeeks | Mathematics | N/A | C++ |
+
+| 159 | GFG. Generate Usernames | GeeksforGeeks | Strings | N/A | C++ |
