@@ -324,3 +324,5 @@ aa1992 | N/A |
 | 158 | GFG. Balanced Binary Tree Counter | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 159 | GFG. Generate Usernames | GeeksforGeeks | Strings | N/A | C++ |
+
+| 160 | GFG. Minimum Time with 2 Scanners | GeeksforGeeks | Mathematics | N/A | C++ |
