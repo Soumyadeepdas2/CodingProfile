@@ -326,3 +326,5 @@ aa1992 | N/A |
 | 159 | GFG. Generate Usernames | GeeksforGeeks | Strings | N/A | C++ |
 
 | 160 | GFG. Minimum Time with 2 Scanners | GeeksforGeeks | Mathematics | N/A | C++ |
+
+| 161 | A. Anton and Letters | Codeforces | constructive algorithms | N/A | C++ |
