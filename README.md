@@ -328,3 +328,5 @@ aa1992 | N/A |
 | 160 | GFG. Minimum Time with 2 Scanners | GeeksforGeeks | Mathematics | N/A | C++ |
 
 | 161 | A. Anton and Letters | Codeforces | constructive algorithms | N/A | C++ |
+
+| 162 | FTTM. FTTM | CodeChef | String | N/A | C++ |
