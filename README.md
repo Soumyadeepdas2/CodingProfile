@@ -332,3 +332,5 @@ aa1992 | N/A |
 | 162 | FTTM. FTTM | CodeChef | String | N/A | C++ |
 
 | 163 | GFG. Count Group Occurrences | GeeksforGeeks | Strings | N/A | C++ |
+
+| 164 | BSEX03. BSEX03 | CodeChef | Binary Search | N/A | C++ |
