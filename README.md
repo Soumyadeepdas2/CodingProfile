@@ -330,3 +330,5 @@ aa1992 | N/A |
 | 161 | A. Anton and Letters | Codeforces | constructive algorithms | N/A | C++ |
 
 | 162 | FTTM. FTTM | CodeChef | String | N/A | C++ |
+
+| 163 | GFG. Count Group Occurrences | GeeksforGeeks | Strings | N/A | C++ |
