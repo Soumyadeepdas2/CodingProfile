@@ -334,3 +334,5 @@ aa1992 | N/A |
 | 163 | GFG. Count Group Occurrences | GeeksforGeeks | Strings | N/A | C++ |
 
 | 164 | BSEX03. BSEX03 | CodeChef | Binary Search | N/A | C++ |
+
+| 165 | A. Maximum in Table | Codeforces | brute force | N/A | C++ |
