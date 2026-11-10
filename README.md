@@ -336,3 +336,5 @@ aa1992 | N/A |
 | 164 | BSEX03. BSEX03 | CodeChef | Binary Search | N/A | C++ |
 
 | 165 | A. Maximum in Table | Codeforces | brute force | N/A | C++ |
+
+| 166 | GFG. At Least K Occurrences | GeeksforGeeks | Arrays | N/A | C++ |
