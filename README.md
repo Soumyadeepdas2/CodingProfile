@@ -338,3 +338,5 @@ aa1992 | N/A |
 | 165 | A. Maximum in Table | Codeforces | brute force | N/A | C++ |
 
 | 166 | GFG. At Least K Occurrences | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 167 | GFG. Any Duplicate Within K Distance | GeeksforGeeks | Arrays | N/A | C++ |
