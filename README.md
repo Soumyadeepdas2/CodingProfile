@@ -342,3 +342,5 @@ aa1992 | N/A |
 | 167 | GFG. Any Duplicate Within K Distance | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 168 | 3105. Longest Strictly Increasing or Strictly Decreasing Subarray | LeetCode | Array | Easy | C++ |
+
+| 169 | GFG. Common Nodes in Two BSTs | GeeksforGeeks | Binary Search Tree | N/A | C++ |
