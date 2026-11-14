@@ -344,3 +344,5 @@ aa1992 | N/A |
 | 168 | 3105. Longest Strictly Increasing or Strictly Decreasing Subarray | LeetCode | Array | Easy | C++ |
 
 | 169 | GFG. Common Nodes in Two BSTs | GeeksforGeeks | Binary Search Tree | N/A | C++ |
+
+| 170 | 3882. Minimum XOR Path in a Grid | LeetCode | Array | Medium | C++ |
