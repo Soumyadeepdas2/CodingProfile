@@ -348,3 +348,5 @@ aa1992 | N/A |
 | 170 | 3882. Minimum XOR Path in a Grid | LeetCode | Array | Medium | C++ |
 
 | 171 | GFG. Sum of All Digit Subsequences | GeeksforGeeks | Strings | N/A | C++ |
+
+| 172 | GFG. K-th Missing in Natural Numbers | GeeksforGeeks | Arrays | N/A | C++ |
