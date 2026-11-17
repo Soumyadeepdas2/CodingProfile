@@ -350,3 +350,5 @@ aa1992 | N/A |
 | 171 | GFG. Sum of All Digit Subsequences | GeeksforGeeks | Strings | N/A | C++ |
 
 | 172 | GFG. K-th Missing in Natural Numbers | GeeksforGeeks | Arrays | N/A | C++ |
+
+| 173 | GFG. Repeated Pattern Check | GeeksforGeeks | Strings | N/A | C++ |
