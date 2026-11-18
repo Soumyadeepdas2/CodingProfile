@@ -352,3 +352,5 @@ aa1992 | N/A |
 | 172 | GFG. K-th Missing in Natural Numbers | GeeksforGeeks | Arrays | N/A | C++ |
 
 | 173 | GFG. Repeated Pattern Check | GeeksforGeeks | Strings | N/A | C++ |
+
+| 174 | A. Free Ice Cream | Codeforces | constructive algorithms | N/A | C++ |
