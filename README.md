@@ -354,3 +354,5 @@ aa1992 | N/A |
 | 173 | GFG. Repeated Pattern Check | GeeksforGeeks | Strings | N/A | C++ |
 
 | 174 | A. Free Ice Cream | Codeforces | constructive algorithms | N/A | C++ |
+
+| 175 | 6. Zigzag Conversion | LeetCode | String | Medium | C++ |
