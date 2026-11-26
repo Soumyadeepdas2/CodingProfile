@@ -356,3 +356,5 @@ aa1992 | N/A |
 | 174 | A. Free Ice Cream | Codeforces | constructive algorithms | N/A | C++ |
 
 | 175 | 6. Zigzag Conversion | LeetCode | String | Medium | C++ |
+
+| 176 | 7. Reverse Integer | LeetCode | Math | Medium | C++ |
